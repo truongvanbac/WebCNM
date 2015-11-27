@@ -1,0 +1,86 @@
+#content {
+	
+}
+
+#content #user-post{
+	
+}
+
+#content #user-post #avatar {
+	
+}
+
+#content #user-post #avatar img {
+	width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#content #user-post #avatar span {
+	color: blue;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+#content #title-idea {
+	font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+
+#content #time-idea {
+	    color: brown;
+    font-style: italic;
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+#content #content-idea {
+	
+}
+
+#content #icon-comment {
+	    font-size: 12px;
+    font-style: italic;
+}
+#content #comment {
+	
+}
+
+#content #comment #respone {
+	
+}
+
+#content #comment #respone p {
+	
+}
+
+#content #comment #respone p span#user{
+	color: blue;
+    margin-right: 15px;
+	
+}
+
+#content #comment #write-comment p span#user{
+	color: blue;
+    margin-right: 15px;
+}
+
+#content #comment #write-comment p input {
+	
+}
+
+/* ============================= ADD IDEA==================================*/
+form#form_add_idea {
+	    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+form#form_add_idea label{
+	    font-size: 18px;
+}
+
+

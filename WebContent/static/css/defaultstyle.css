@@ -1,0 +1,51 @@
+/*Style cho trang chủ*/
+.carousel{
+    background: #2f4357;
+    margin-top: 50px;
+}
+.carousel .item img{
+    margin: 0 auto; /* Align slide image horizontally center */
+}
+.bs-example{
+  margin: 0px;
+}
+
+.services-header {
+    font-size: 25px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.services-header-title {
+    margin-bottom: 15px;
+}
+
+footer {
+    background: black none repeat scroll 0 0;
+    margin-top: 40px;
+    padding: 20px;
+}
+
+.copyright {
+    background-color: rgb(23, 23, 23);
+    color: #fff;
+    padding: 20px 0 10px;
+}
+.center {
+    text-align: center;
+}
+.footer-contact {
+    color: white;
+}
+footer h3 {
+    color: #dadada;
+    margin-bottom: 20px;
+}
+
+#social-icons {
+    font-size: 22px;
+}
+
+.services-section {
+    text-align: center;
+}

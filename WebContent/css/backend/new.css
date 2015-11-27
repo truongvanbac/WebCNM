@@ -1,0 +1,38 @@
+.table {
+	width: 80%;
+	margin: 0 auto;
+}
+
+th {
+	text-align: center;
+	background-color: brown;
+}
+
+.table-striped {
+	
+}
+
+#pagination {
+	float: right;
+	margin-right: 30px;
+}
+
+#action {
+	margin-bottom: 25px;
+	margin-left: 134px;
+	display: none;
+}
+
+a#add{
+	margin-bottom: 25px;
+	margin-left: 134px;
+}
+
+/* ========================   ADD NEW   ================================ */
+#form-add {
+	    width: 80%;
+    margin: 0 auto;
+    border: 3px solid #ccc;
+    padding: 10px;
+    margin-bottom: 100px;
+}

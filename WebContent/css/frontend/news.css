@@ -1,0 +1,36 @@
+#content #title-post {
+	font-size: 25px;
+	color: blue;
+}
+
+#content #time-post {
+	margin-bottom: 10px;
+	font-size: 12px;
+	color: brown;
+	font-style: italic;
+}
+
+#content #post-content-detail {
+	margin-bottom: 100px;
+}
+
+#content #old-post {
+	
+}
+
+#content #old-post p#title {
+	color: cadetblue;
+	font-size: 18px;
+}
+
+#content #old-post ul {
+	
+}
+
+#content #old-post ul li {
+	
+}
+
+#content #old-post ul li a {
+	
+}

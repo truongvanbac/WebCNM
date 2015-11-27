@@ -1,0 +1,306 @@
+body {
+	
+}
+
+.container {
+	width: 1050px;
+}
+
+.wapper {
+	box-shadow: 0px 0px 20px #333;
+}
+
+/* ==========================  HEADER   ============================= */
+#header {
+	background-color: brown;
+}
+
+#nav-fun {
+	
+}
+
+#nav-fun a {
+	
+}
+
+#logo img {
+	width: 120px;
+	height: 180px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+#banner {
+	color: beige;
+	/* margin: 0 auto; */
+	text-align: center;
+	/* margin-bottom: -10px; */
+	margin-top: 15px;
+}
+
+/* ==========================  MENU  ============================= */
+#menu {
+	
+}
+
+.navbar {
+	border-radius: 0px;
+}
+
+/*
+.navbar-default {
+	background-color: #001731;
+	border-color: black;
+}
+*/
+
+/* ==========================  FOOTER ============================= */
+#footer {
+	background-color: brown;
+	text-align: center;
+	margin-bottom: -10px;
+	padding-top: 5px;
+	color: beige;
+}
+
+/* ==========================  CONTENT ============================= */
+#content {
+	
+}
+
+#box-right {
+	margin-bottom: 10px;
+}
+
+#box-right #box-header {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: brown;
+}
+
+#box-right #box-header span {
+	color: beige;
+	font-size: 17px;
+}
+
+#box-right #box-header span.glyphicon {
+	margin-right: 7px;
+	margin-left: 10px;
+}
+
+#box-right #box-content {
+	border: 1px solid burlywood;
+	padding-top: 10px;
+}
+
+#box-right #box-content ul {
+	
+}
+
+#box-right #box-content ul li {
+	
+}
+
+#part-content {
+	/*border-right: 1px solid burlywood;*/
+	
+}
+
+#part-content #main-header {
+	background-image: url("../images/title_background.png");
+	background-repeat: no-repeat;
+	color: white;
+}
+
+#part-content #main-header p {
+	padding: 10px 10px;
+}
+
+#part-content #main-header p span {
+	margin-right: 8px;
+}
+
+#part-content #main-content {
+	    line-height: 10px;
+}
+
+#part-content #main-content ul {
+	
+}
+
+#part-content #main-content ul li {
+	margin-right: 10px;
+	list-style: circle;
+}
+
+#part-content #main-content ul li a {
+	color: brown;
+	margin-right: 10px;
+}
+
+#part-content #main-content ul li i {
+	font-size: 11px;
+	color: blueviolet;
+}
+
+/*========================= SLIDE  ==========================*/
+.carousel-inner>.item>a>img, .carousel-inner>.item>img {
+	width: 800px;
+	height: 400px;
+}
+
+#slide_show {
+	border: 10px double beige;
+	padding: 10px 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+/* =================================== NEWS ============================ */
+#content #title {
+	font-size: 25px;
+}
+
+#content #list {
+	line-height: 30px;
+}
+
+#content #list ul {
+	
+}
+
+#content #list ul li {
+	list-style-type: circle;
+}
+
+#content #list ul li p {
+	
+}
+
+#content #list ul li p a {
+	margin-right: 20px;
+}
+
+#content #list ul li p i {
+	color: brown;
+	font-size: 11px;
+}
+
+#content #pagination {
+	float: right;
+}
+
+/* ======================================= SUBJECT ================================*/
+#list #logo {
+	
+}
+
+#list #logo img {
+	
+}
+
+#list #subject-content {
+	line-height: 30px;
+}
+
+#list #subject-content #subject-header {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#list #subject-content #subject-summary {
+	
+}
+
+#list #subject-content p {
+	font-style: italic;
+}
+
+#list #subject-content p a {
+	font-size: 12px;
+}
+
+/* ======================================= CONTACT ================================*/
+#content #contact-image {
+	margin-bottom: 15px;
+}
+
+#content #contact-image img {
+	width: 177px;
+    height: 266px;
+}
+
+#content #infor {
+	
+}
+
+/* =============================== LOGIN ============================*/
+form#form-login {
+	
+}
+form#form-login label{
+	
+}
+
+
+
+
+
+/* ================================ PAGINATION =============================== */
+ul.pagination {
+	
+}
+
+ul.pagination li {
+}
+
+ul.pagination li a{
+}
+
+ul.pagination li.disabled a{
+	    background-color: darkgray;
+}
+
+
+/* ========================================   */
+#list-subject {
+	
+}
+
+#list-subject #logo{
+	float: left;
+}
+
+#list-subject #logo img {
+	    width: 100px;
+    height: 100px;
+    padding-right: 10px;
+}
+
+#subject-content {
+	    border-bottom: dotted thin #ccc;
+}
+
+#subject-content #subject-header{
+	font-weight: bold;
+    font-size: 14px;
+}
+
+#subject-content #subject-summary{
+	font-style: italic;
+    font-size: 13px;
+}
+
+p#read-more{
+	    font-style: italic;
+    font-size: 11px;
+}
+
+
+
+
+
+
+
+
+

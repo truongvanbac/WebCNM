@@ -1,0 +1,31 @@
+/*grouparticles*/
+.btn{
+	border-radius: 0px;
+	/*float: right;*/
+	//margin-left: 4px;
+}
+
+label{
+	font-weight: initial;
+	margin: 3px 0 0;
+}
+
+input, textarea{
+	font: initial;
+}
+
+/*mgmquestions*/
+#btn-center{
+	border-radius: 0px;
+	float: left;
+	margin-left: 4px;
+}
+
+ table { 
+ 	table-layout: fixed; 
+ }
+ .table >tbody >tr >td {
+ 	vertical-align: middle;
+ }
+ 
+/*Custom bootstrap */

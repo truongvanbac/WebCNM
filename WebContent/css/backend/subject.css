@@ -1,0 +1,76 @@
+div#title {
+	font-size: 25px;
+	text-align: center;
+	color: brown;
+	margin-bottom: 50px;
+}
+
+body {
+	background-image: url("/WebCNM/images/backend/body.jpg");
+}
+
+
+.table {
+	width: 80%;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+
+th {
+	text-align: center;
+	background-color: #A7C942;
+}
+
+.table-striped {
+	
+}
+
+.table-striped > tbody > tr:nth-child(2n) > td, .table-striped > tbody > tr:nth-child(2n) > th {
+   background-color: #EAF2D3;
+}
+
+.table-bordered>tbody>tr>td, 
+.table-bordered>tbody>tr>th, 
+.table-bordered>tfoot>tr>td, 
+.table-bordered>tfoot>tr>th, 
+.table-bordered>thead>tr>td, 
+.table-bordered>thead>tr>th {
+    border: 1px solid #98bf21;
+}
+
+#pagination {
+	float: right;
+	margin-right: 30px;
+	margin-bottom: 50px;
+}
+
+#action {
+	margin-bottom: 25px;
+	margin-left: 134px;
+	
+}
+
+button#del, button#edit{
+	display: none;
+}
+
+/* ========================   ADD NEW   ================================ */
+#form-add {
+	    width: 80%;
+    margin: 0 auto;
+    border: 3px solid #ccc;
+    padding: 10px;
+    margin-bottom: 100px;
+    background-color: white;
+}
+
+
+/* Important part */
+.modal-dialog{
+    overflow-y: initial !important
+}
+
+.modal-body{
+    max-height: calc(100vh - 200px);
+    overflow-y: auto;
+}
